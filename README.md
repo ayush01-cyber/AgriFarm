@@ -98,7 +98,7 @@ A comprehensive farm management system built with modern web technologies to hel
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/Agri Farm-Smart-Farm-Management-System-EPICS-Project.git
-cd Agri Farm-Smart-Farm-Management-System-EPICS-Project
+cd Agri Farm-Smart-Farm-Management-System-Capstone-Project
 ```
 
 2. Install dependencies:
